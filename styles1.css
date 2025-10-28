@@ -57,6 +57,10 @@ iframe{
 	margin-top: 25px;
 }
 
+.tabbedtext{
+	text-indent: 1em;
+}
+
 .links{
 	color: white;
 	position: relative;

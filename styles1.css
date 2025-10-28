@@ -52,6 +52,11 @@ iframe{
 	margin-top: 40px;
 }
 
+.ContactInfo{
+	text-align: center;
+	margin-top: 25px;
+}
+
 .links{
 	color: white;
 	position: relative;
